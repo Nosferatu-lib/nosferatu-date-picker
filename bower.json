@@ -1,0 +1,6 @@
+{
+  "name": "nosferatu-date-picker",
+  "dependencies": {
+    "nosferatu-core": "~0.1.3"
+  }
+}
