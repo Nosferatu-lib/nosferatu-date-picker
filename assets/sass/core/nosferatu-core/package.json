@@ -1,0 +1,16 @@
+{
+  "name": "nosferatu-core",
+  "version": "0.1.6",
+  "description": "Core functionality of Nosferatu library",
+  "author": {
+    "name": "Steve Vadocz",
+    "url": "http://blog.steveis.guru"
+  },
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-release": "^0.11.0",
+    "grunt-sass": "^0.18.0",
+    "grunt-scss-lint": "^0.3.4",
+    "matchdep": "^0.3.0"
+  }
+}

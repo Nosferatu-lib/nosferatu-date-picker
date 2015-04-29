@@ -1,0 +1,22 @@
+{
+  "name": "nosferatu-core",
+  "description": "Core functionality of Nosferatu library",
+  "version": "0.1.6",
+  "main": [
+    "src/_core.scss"
+  ],
+  "homepage": "https://github.com/Nosferatu-lib/nosferatu-core",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nosferatu-lib/nosferatu-core.git"
+  },
+  "_release": "0.1.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.6",
+    "commit": "2605bf6b2e897a63156c398facaa0bbebef75a20"
+  },
+  "_source": "git://github.com/Nosferatu-lib/nosferatu-core.git",
+  "_target": "~0.1.3",
+  "_originalSource": "nosferatu-core"
+}

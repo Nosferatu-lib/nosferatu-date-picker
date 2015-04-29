@@ -1,3 +1,4 @@
 .DS_Store
-jspm_packages
+.grunt
+.sass-cache
 node_modules

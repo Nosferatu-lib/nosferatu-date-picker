@@ -1,0 +1,41 @@
+/**
+ * Base styles
+ */
+* {
+  box-sizing: border-box; }
+
+/**
+ * Functions
+ */
+/**
+ * Convert number to EMs
+ * 
+ * @return {Number in ems}
+ */
+/**
+ * Math functions to help keep consistent sizes
+ */
+/**
+ * Mixins
+ */
+/**
+ * Font size with vertical rhytm.
+ * Thanks to Harry Roberts (inuit.css).
+ */
+/**
+ * RESET
+ */
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, dl, dd, ol, ul, form, fieldset, legend, table, th, td, caption, hr {
+  margin: 0;
+  padding: 0; }
+
+/**
+ * Give form elements some cursor interactions.
+ * From Harry Roberts - inuit.css
+ */
+label, input, textarea, button, select, option {
+  cursor: pointer; }
+
+.text-input:active, .text-input:focus, textarea:active, textarea:focus {
+  cursor: text;
+  outline: none; }

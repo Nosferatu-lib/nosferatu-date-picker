@@ -15,11 +15,11 @@ module.exports = function(grunt) {
         pkg: grunt.file.readJSON('package.json'),
 
         dir: {
-            js: 'public/js',
-            css: 'public/css',
+            js: 'assets/js',
+            css: 'assets/css',
             sass: 'assets/sass',
-            img: 'public/images',
-            views: 'public/views'
+            img: 'assets/images',
+            views: 'assets/views'
         },
 
         /**
