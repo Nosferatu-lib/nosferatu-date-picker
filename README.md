@@ -1,2 +1,2 @@
-# nosferatu-date-picker
-Reactjs component for selecting date
+# nosferatu-reactjs-auth
+Reactjs authentication component
