@@ -1,6 +1,6 @@
 import React from 'react';
 import Router from 'react-router';
-import AppRoutes from './routes/app-routes.jsx!';
+import AppRoutes from './routes/app-routes.react';
 
 // make react available to dev tool
 if (!window.React) {

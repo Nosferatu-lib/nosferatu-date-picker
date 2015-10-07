@@ -1,7 +1,7 @@
 import React from 'react';
 import Router from 'react-router';
-import AppContainer from '../layouts/app-container.jsx!';
-import AppHeader from '../layouts/app-header.jsx!';
+import AppContainer from '../layouts/app-container.react';
+import AppHeader from '../layouts/app-header.react';
 
 var RouteHandler = Router.RouteHandler;
 
